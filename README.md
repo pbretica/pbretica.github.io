@@ -22,12 +22,12 @@
       </section>
       <section class="about me">
         <h2>About Me</h2>
-        <p>We are a team of highly trained spies with years of experience in the field. Our mission is to provide our clients with the information they need to make informed decisions and stay ahead of their competition. <br> <a href="google.com">CV</a></li> </p>
+        <p>We are a team of highly trained spies with years of experience in the field. Our mission is to provide our clients with the information they need to make informed decisions and stay ahead of their competition. <br> <br> <a href="google.com">CV</a> </p>
       </section>
       <section class="portfolio">
         <h2>Portfolio</h2>
         <p><a href="google.com">Choropleth Map</a>
-        <br> <a href="google.com">Proportional Symbol Map</a>
+        <br> <br> <a href="google.com">Proportional Symbol Map</a>
       </section>
       <section class="contact">
         <h2>Contact</h2>
