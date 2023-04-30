@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
 <head>
@@ -89,7 +90,8 @@
         </section>
         <section id="portfolio">
             <h2>Portfolio</h2>
-            <p>In this section, you can showcase your projects, works, or any other creative endeavors using cute-themed styles, colors, and icons. You can provide descriptions, screenshots, or links to your projects to demonstrate your skills and achievements.</p>
+            <p>In this section, you can showcase your projects, works, or any other creative endeavors using cute-themed styles, colors, and icons. You can provide descriptions, screenshots, or links to your projects to demonstrate your skills and achievements. <br>
+            <a href="google.com">Choropleth Map</a></p>
         </section>
         <section id="contact">
             <h2>Contact</h2>
@@ -101,3 +103,7 @@
     </footer>
 </body>
 </html>
+=======
+# pbretica.github.io
+my website 
+>>>>>>> parent of 5248967 (Update README.md)
