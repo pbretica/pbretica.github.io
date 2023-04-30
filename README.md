@@ -27,7 +27,7 @@
       <section class="portfolio">
         <h2>Portfolio</h2>
         <p><a href="google.com">Choropleth Map</a>
-        <br> <br> <a href="google.com">Proportional Symbol Map</a>
+        <br> <a href="google.com">Proportional Symbol Map</a>
       </section>
       <section class="contact">
         <h2>Contact</h2>
