@@ -18,7 +18,7 @@
       <section class="hero">
         <h1>Penny Retica</h1>
         <p>Providing top-quality espionage services since 2000.</p>
-        <a href="#" class="button">Learn More</a>
+        <a href="#about-me" class="button">Learn More</a>
       </section>
       <section class="about me">
         <h2>About Me</h2>
