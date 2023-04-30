@@ -5,35 +5,14 @@
   }
   
   body {
-    font-family: "Arial", sans-serif;
+    font-family: Arial, sans-serif;
     margin: 0;
-    background-color: #000;
-    color: #fff;
-  }
-  
-  a {
-    color: #fff;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    color: #ff0;
   }
   
   header {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    background-color: #000;
-    padding: 10px 0;
-    z-index: 999;
-  }
-  
-  nav {
-    max-width: 800px;
-    margin: 0 auto;
-    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
   }
   
   nav ul {
@@ -47,118 +26,28 @@
   }
   
   nav a {
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 18px;
-    font-weight: bold;
-    letter-spacing: 2px;
-    text-transform: uppercase;
+    color: #fff;
+    display: block;
+    padding: 10px;
+    text-decoration: none;
   }
   
   nav a:hover {
-    background-color: #ff0;
-    color: #000;
+    background-color: #555;
   }
   
-  .hero {
-    background-color: #000;
-    color: #fff;
-    text-align: center;
-    padding: 100px 0;
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
   }
   
-  .hero h1 {
-    font-size: 72px;
-    font-weight: bold;
-    margin: 0;
-    letter-spacing: 10px;
-    text-transform: uppercase;
-  }
-  
-  .hero p {
-    font-size: 24px;
-    margin: 40px 0;
-    letter-spacing: 5px;
+  h1, h2 {
+    color: #333;
   }
   
   .button {
-    display: inline-block;
-    background-color: #f0f;
-    color: #000;
-    padding: 10px 20px;
-    font-size: 18px;
-    font-weight: bold;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    border-radius: 5px;
-    text-align: center;
-    transition: all 0.3s ease;
-  }
-  
-  .button:hover {
-    background-color: #0ff;
-    color: #000;
-    transform: scale(1.1);
-    box-shadow: 0 0 10px #fff;
-  }
-  
-  .about {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 100px 0;
-  }
-  
-  .about h2 {
-    font-size: 36px;
-    font-weight: bold;
-    text-align: center;
-    margin-bottom: 40px;
-  }
-  
-  .about p {
-    font-size: 24px;
-    line-height: 1.5;
-    margin-bottom: 40px;
-  }
-  
-  .services {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 100px 0;
-  }
-  
-  .services h2 {
-    font-size: 36px;
-    font-weight: bold;
-    text-align: center;
-    margin-bottom: 40px;
-  }
-  
-  .services ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-  }
-  
-  .services li {
-    display: inline-block;
-    font-size: 24px;
-    margin: 0 20px;
-  }
-  
-  .contact {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 100px 0;
-  }
-  
-  .contact h2 {
-    font-size: 36px;
-    font-weight: bold;
-    text-align: center;
-    margin-bottom: 40px;
-  }
-  
-  .contact form {
-    max-width: 500px;}
+    background-color: #333;
+    border: none;
+    color: #fff;
+    display}
