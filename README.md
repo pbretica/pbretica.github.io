@@ -26,10 +26,8 @@
       </section>
       <section class="portfolio">
         <h2>Portfolio</h2>
-        <ul>
-	        <li><a href="google.com">Choropleth Map</a></li>
-          <li><a href="google.com">Proportional Symbol Map</a></li>
-        </ul>
+        <p><a href="google.com">Choropleth Map</a>
+        <br> <a href="google.com">Proportional Symbol Map</a>
       </section>
       <section class="contact">
         <h2>Contact</h2>
