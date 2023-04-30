@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Cute GitHub Pages Website</title>
+    <title>Penny Retica</title>
     <link rel="stylesheet" href="style.css">
     <style>
         /* Customize the cute-themed styles here */
