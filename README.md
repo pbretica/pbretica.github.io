@@ -1,54 +1,37 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Spy Agency</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Penny Retica</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
+    <nav>
+      <ul>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Portfolio</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
     <header>
-      <nav>
-        <ul>
-          <li><a href="#">Home</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Services</a></li>
-          <li><a href="#">Contact</a></li>
-        </ul>
-      </nav>
+      <h1>Providing top-quality espionage services since 2000.</h1>
     </header>
     <main>
-      <section class="hero">
-        <h1>Spy Agency</h1>
-        <p>Providing top-quality espionage services since 1995.</p>
-        <a href="#" class="button">Learn More</a>
+      <section>
+        <h2>About Me</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend magna vitae justo rutrum, nec pharetra sapien dignissim. Nunc eu ligula a augue posuere aliquam. Sed vel quam consequat, tincidunt neque non, volutpat felis. Aliquam eget nibh feugiat, ornare ipsum ac, ultrices metus.<br>
+        <a href="google.com">click here!</a></p>
       </section>
-      <section class="about">
-        <h2>About Us</h2>
-        <p>We are a team of highly trained spies with years of experience in the field. Our mission is to provide our clients with the information they need to make informed decisions and stay ahead of their competition.</p>
-      </section>
-      <section class="services">
-        <h2>Our Services</h2>
+      <section>
+        <h2>My Projects</h2>
         <ul>
-          <li>Covert surveillance</li>
-          <li>Intelligence gathering</li>
-          <li>Counterintelligence</li>
-          <li>Security consulting</li>
+          <li><a href="#">Project 1</a></li>
+          <li><a href="#">Project 2</a></li>
+          <li><a href="#">Project 3</a></li>
         </ul>
-      </section>
-      <section class="contact">
-        <h2>Contact Us</h2>
-        <form action="#">
-          <label for="name">Name:</label>
-          <input type="text" id="name" name="name">
-          <label for="email">Email:</label>
-          <input type="email" id="email" name="email">
-          <label for="message">Message:</label>
-          <textarea id="message" name="message"></textarea>
-          <button type="submit">Send Message</button>
-        </form>
       </section>
     </main>
     <footer>
-      <p>&copy; 2023 Spy Agency</p>
+      <p>&copy; 2023 Penny Retica</p>
     </footer>
   </body>
 </html>
