@@ -8,9 +8,9 @@
     <header>
       <nav>
         <ul>
-          <li> [About me] (#about-me) </li>
-          <li> [Portfolio] (#portfolio) </li>
-          <li> [Contact] (#contact) </li>
+          <li><a href="#about-me">About Me</a></li>
+          <li><a href="#portfolio">Portfolio</a></li>
+          <li><a href="#contact">Contact</a></li>
         </ul>
       </nav>
     </header>
