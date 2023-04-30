@@ -22,8 +22,8 @@
       </section>
       <section class="about me">
         <h2>About Me</h2>
-        <p>We are a team of highly trained spies with years of experience in the field. Our mission is to provide our clients with the information they need to make informed decisions and stay ahead of their competition. </p> <br>
-        <h3> <a href="#"><b>CV</b></a> </p>
+        <p>We are a team of highly trained spies with years of experience in the field. Our mission is to provide our clients with the information they need to make informed decisions and stay ahead of their competition. </p>
+        <h3> <a href="#"><b>CV</b></a> </h3>
       </section>
       <section class="portfolio">
         <h2>Portfolio</h2>
