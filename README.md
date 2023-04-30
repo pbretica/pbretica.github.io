@@ -7,7 +7,7 @@
   <body>
     <nav>
       <ul>
-        <li><a href="#">About</a></li>
+        <li><a href="#">About Me</a></li>
         <li><a href="#">Portfolio</a></li>
         <li><a href="#">Contact</a></li>
       </ul>
@@ -22,12 +22,24 @@
         <a href="google.com">click here!</a></p>
       </section>
       <section>
-        <h2>My Projects</h2>
+        <h2>Portfolio</h2>
         <ul>
           <li><a href="#">Project 1</a></li>
           <li><a href="#">Project 2</a></li>
           <li><a href="#">Project 3</a></li>
         </ul>
+      </section>
+      <section>
+        <h2>Contact</h2>
+        <form action="#">
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="name">
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email">
+          <label for="message">Message:</label>
+          <textarea id="message" name="message"></textarea>
+          <button type="submit">Send Message</button>
+        </form>
       </section>
     </main>
     <footer>
