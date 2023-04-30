@@ -2,34 +2,36 @@
 <html>
   <head>
     <title>Penny Retica</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <nav>
-      <ul>
-        <li><a href="#">About Me</a></li>
-        <li><a href="#">Portfolio</a></li>
-        <li><a href="#">Contact</a></li>
-      </ul>
-    </nav>
     <header>
-      <h1>Providing top-quality espionage services since 2000.</h1>
+      <nav>
+        <ul>
+          <li><a href="#">About Me</a></li>
+          <li><a href="#">Portfolio</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
     </header>
     <main>
-      <section>
-        <h2>About Me</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend magna vitae justo rutrum, nec pharetra sapien dignissim. Nunc eu ligula a augue posuere aliquam. Sed vel quam consequat, tincidunt neque non, volutpat felis. Aliquam eget nibh feugiat, ornare ipsum ac, ultrices metus.<br>
-        <a href="google.com">click here!</a></p>
+      <section class="hero">
+        <h1>Penny Retica</h1>
+        <p>Providing top-quality espionage services since 2000.</p>
+        <a href="#" class="button">Learn More</a>
       </section>
-      <section>
+      <section class="about me">
+        <h2>About Me</h2>
+        <p>We are a team of highly trained spies with years of experience in the field. Our mission is to provide our clients with the information they need to make informed decisions and stay ahead of their competition. <br> <a href="google.com">CV</a></li> </p>
+      </section>
+      <section class="portfolio">
         <h2>Portfolio</h2>
         <ul>
-          <li><a href="#">Project 1</a></li>
-          <li><a href="#">Project 2</a></li>
-          <li><a href="#">Project 3</a></li>
+	        <li><a href="google.com">Choropleth Map</a></li>
+          <li><a href="google.com">Proportional Symbol Map</a></li>
         </ul>
       </section>
-      <section>
+      <section class="contact">
         <h2>Contact</h2>
         <form action="#">
           <label for="name">Name:</label>
