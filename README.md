@@ -31,7 +31,7 @@
         <p> Skilled in ESRI Suite, ArcGIS Story Maps, JS, Python, R, JMP, MS Office, MapBox, and Leaflet. <br> <br> Strong background in research and project design.</p>
         <a href="https://pbretica.github.io/choropleth/" class="button2">Choropleth Map</a> <br> <br>
         <a href="https://pbretica.github.io/worldcoviddeaths/" class="button2">Proportional Symbol Map</a> <br> <br>
-        <a href="" class="button2">Site history project</a>
+        <a href="" class="button2">Site History Project</a>
       </section>
       <section class="contact">
         <h2>Contact</h2>
