@@ -117,10 +117,10 @@
   }
 
   .button2:hover {
-    background-color: #ff0;
+    background-color: #f0f;
     color: #000;
     transform: scale(0.9);
-    box-shadow: 0 0 10px #fff;
+    box-shadow: 0 0 8px #fff;
   }
   
   .about {
