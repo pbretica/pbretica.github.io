@@ -148,7 +148,7 @@
     margin: 0 auto;
     padding: 100px 0;
   }
-  
+
   .portfolio h2 {
     font-size: 36px;
     font-weight: bold;
@@ -158,21 +158,13 @@
 
   .portfolio h3 {
     font-size: 18px;
-    font-weight: lighter;
+    font-weight: bold;
     line-height: 1.5;
     margin-bottom: 40px;
     letter-spacing: 2px;
   }
 
   .portfolio h4 {
-    font-size: 18px;
-    font-weight: lighter;
-    line-height: 1.5;
-    margin-bottom: 40px;
-    letter-spacing: 2px;
-  }
-
-  .portfolio h5 {
     font-size: 18px;
     font-weight: lighter;
     line-height: 1.5;
