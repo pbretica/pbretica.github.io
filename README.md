@@ -31,17 +31,17 @@
         <p> Skilled in ESRI Suite, ArcGIS Story Maps, JS, Python, R, JMP, MS Office, MapBox, Leaflet, and more. <br> <br> Strong background in research and project design. <br> <br>
         A quick look at what I'm working on: </p>
         <a href="https://pbretica.github.io/choropleth/" class="button2">Choropleth Map</a> <br> 
-        <h3> Interactive choropleth map. PA scale. <br> Visualizes distribution of covid cases across all PA counties. <br> <br>
+        <h3> Interactive choropleth map. PA scale. <br> Visualizes distribution of covid cases across all PA counties. <br> <br> </h3>
         <img src="covidcases.png" alt="Choropleth map of PA covid cases by county" width="600" height="400">
         <hr>
         <a href="https://pbretica.github.io/worldcoviddeaths/" class="button2">Proportional Symbol Map</a>
-        <h3>Interactive proportional symbol map (embedded below). Global scale. <br> Conveys magnitude of covid death counts around the world through color-coded proportional symbols. <br> <br>
+        <h3>Interactive proportional symbol map (embedded below). Global scale. <br> Conveys magnitude of covid death counts around the world through color-coded proportional symbols. <br> <br> </h3>
         <iframe src="https://pbretica.github.io/worldcoviddeaths/" height="500" width="600"></iframe> <br> <br>
         <hr>
         <a href="" class="button2">Site History Project</a> <b> Coming soon! </b>
-        <h3> Using ArcGIS Story Map platform to create a comprehensive site history guide for urban growers in Philadelphia using free online resources. Includes presentation on land tenure policy in Philadelphia and map tour of historic community growing spaces. <br> <br> Based on research with Penn State Extension Urban Soils Community Engagement Team. <br> Working with Map Collections of the Free Library on collaborative educational workshop open to the public.<br> <br>
+        <h3> Using ArcGIS Story Map platform to create a comprehensive site history guide for urban growers in Philadelphia using free online resources. Includes presentation on land tenure policy in Philadelphia and map tour of historic community growing spaces. <br> <br> Based on research with Penn State Extension Urban Soils Community Engagement Team. <br> Working with Map Collections of the Free Library on collaborative educational workshop open to the public.<br> <br> </h3>
         <img src="urbansoils.png" alt="Title page of urban soils project" width="1000" height="350"> <br> 
-        </h3>
+        <hr>
       </section>
       <section class="contact">
         <h2>Contact</h2>
