@@ -8,7 +8,7 @@
     <header>
       <nav>
         <ul>
-          <li><a href="#about-me">About Me</a></li>
+          <li><a href="#about">About</a></li>
           <li><a href="#portfolio">Portfolio</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
@@ -18,9 +18,9 @@
       <section class="hero">
         <h1>Penny Retica</h1>
         <p>Building insightful spatial analysis and interpretation of our cities.</p>
-        <a href="#about-me" class="button">Learn More</a>
+        <a href="#about" class="button">Learn More</a>
       </section>
-      <section class="about me">
+      <section class="about">
         <h2>About</h2>
         <p>Studied Peace and Conflict Studies at Swarthmore College for three years; graduating with B.A. in Geography and Urban Studies from Temple University. <br> <br> Special interest in public spaces, community land tenure in cities across the U.S., and applications of GIS to fields of horticulture and urban agriculture.</p>
         <a href="https://pbretica.github.io/Retica_2023CV.pdf" class="button2">CV</a>
