@@ -106,7 +106,7 @@
     padding: 10px 40px;
     margin: auto;
     text-align: center;
-    font-size: 20px;
+    font-size: 22px;
     font-weight: bold;
     letter-spacing: 2px;
   }
@@ -150,10 +150,10 @@
   }
 
   .portfolio h3 {
-    font-size: 20px;
-    line-height: 1.5;
+    font-size: 18px;
+    line-height: 1;
     margin-bottom: 40px;
-    letter-spacing: 1.5px;
+    letter-spacing: 2px;
   }
   
   .portfolio p {
