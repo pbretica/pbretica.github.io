@@ -28,8 +28,8 @@
       </section>
       <section class="portfolio">
         <h2>Portfolio</h2>
-        <p><a href="https://pbretica.github.io/choropleth/"><b>Choropleth Map</b></a> <br> <br>
-         <a href="google.com"><b>Proportional Symbol Map</b></a> </p>
+        <a href="https://pbretica.github.io/choropleth/" class="button2">Choropleth Map</a>
+        <a href="#" class="button2">Proportional Symbol Map</a>
       </section>
       <section class="contact">
         <h2>Contact</h2>
