@@ -26,9 +26,10 @@
         <h2>About</h2>
         <div class="container">
   <img src="brooklyn bridge.jpg" alt="Brooklyn Bridge at night" style="width:100%;">
-  <div class="bottom-left">Bottom Left</div>
-  </div>
-        <p> Born, raised, and based in New York, NY. <br> <br>
+  <div class="bottom-left"> <p> Born, raised, and based in New York, NY. <br> <br>
+        Studied Peace and Conflict Studies at Swarthmore College for three years; graduating with accelerated B.A. in Geography and Urban Studies from Temple University. <br> <br> Special interest in public spaces, community land tenure in cities across the U.S., and applications of GIS to fields of horticulture and urban agriculture.</p><br> <br> </div>
+        <p>
+        Born, raised, and based in New York, NY. <br> <br>
         Studied Peace and Conflict Studies at Swarthmore College for three years; graduating with accelerated B.A. in Geography and Urban Studies from Temple University. <br> <br> Special interest in public spaces, community land tenure in cities across the U.S., and applications of GIS to fields of horticulture and urban agriculture.</p>
         <a href="https://pbretica.github.io/Retica_2023CV.pdf" class="button2">CV</a>
         <a href="https://www.linkedin.com/in/penny-retica/" class="button2">LinkedIn</a>
