@@ -20,7 +20,7 @@
         <p>Building insightful spatial analysis of the inner workings of our cities and public green spaces.</p>
         <a href="#about" class="button">Learn More</a> <br> <br>
         <img src="Wild_tree_in_nature.jpg" alt="Picture of tree" width="900" height="800">
-        <img src="brooklyn bridge.jpg" alt="Brooklyn Bridge at night" max-width= 100% height= auto border-radius= 50%>
+        <img src="brooklyn bridge.jpg" alt="Brooklyn Bridge at night" max-width= 100% height= auto>
       </section>
       <section class="about">
         <h2>About</h2>
