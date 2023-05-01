@@ -120,7 +120,7 @@
     background-color: #ff0;
     color: #000;
     transform: scale(0.9);
-    box-shadow: 0 0 5px #fff;
+    box-shadow: 0 0 10px #fff;
   }
   
   .about {
