@@ -41,7 +41,7 @@
         <iframe src="https://pbretica.github.io/worldcoviddeaths/" height="500" width="600"></iframe>
         <h4> Embedded proportional symbol map. </h4>
         <hr>
-        <a href="" class="button2">Launch Site History Project</a> <b> <strong> Coming soon! </strong> </b>
+        <a href="" class="button2">Launch Site History Project</a> <b> <strong> "    Coming soon!" </strong> </b>
         <h3>Creating a comprehensive site history guide for urban growers in Philadelphia using free online resources. <i>Philadelphia scale.</i><br> <br>
         Presented in ArcGIS Story Maps and downloadable pdf guides.
         Includes research on land tenure policy in Philadelphia and map tour of historic community growing spaces. <br> <br> Based on research with Penn State Extension Urban Soils Community Engagement Team. Working with Map Collections of the Free Library on collaborative educational workshop open to the public. </h3>
