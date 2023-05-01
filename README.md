@@ -47,7 +47,6 @@
         Includes research on land tenure policy in Philadelphia and map tour of historic community growing spaces. <br> <br> Based on research with Penn State Extension Urban Soils Community Engagement Team. Working with Map Collections of the Free Library on collaborative educational workshop open to the public. </h3>
         <img src="urbansoils.png" alt="Title page of urban soils project" width="1000" height="350">
         <h4> Screen capture of ArcGIS Story Map. </h4>
-        <hr>
       </section>
       <section class="contact">
         <h2>Contact</h2>
