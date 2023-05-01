@@ -17,7 +17,7 @@
     <main>
       <section class="hero">
         <h1>Penny Retica</h1>
-        <p>Pursuing exemplary spatial analysis and interpretation.</p>
+        <p>Pursuing insightful spatial analysis and interpretation.</p>
         <a href="#about-me" class="button">Learn More</a>
       </section>
       <section class="about me">
