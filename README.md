@@ -17,12 +17,12 @@
     <main>
       <section class="hero">
         <h1>Penny Retica</h1>
-        <p>Providing top-quality espionage services since 2000.</p>
+        <p>Pursuing exemplary spatial analysis and interpretation since 2000.</p>
         <a href="#about-me" class="button">Learn More</a>
       </section>
       <section class="about me">
         <h2>About Me</h2>
-        <p>We are a team of highly trained spies with years of experience in the field. Our mission is to provide our clients with the information they need to make informed decisions and stay ahead of their competition. </p>
+        <p>Studied Peace and Conflict Studies at Swarthmore College for three years; graduating with B.A. in Geography and Urban Studies from Temple University. Special interest in public spaces, community land tenure in cities across the U.S., and applications of GIS to fields of horticulture and urban agriculture.</p>
         <a href="https://pbretica.github.io/Retica_2023CV.pdf" class="button2">CV</a>
       </section>
       <section class="portfolio">
@@ -32,7 +32,7 @@
       </section>
       <section class="contact">
         <h2>Contact</h2>
-        <p>Email: pbretica@gmail.com </p>
+        <p>Email me at pbretica@gmail.com. </p>
       </section>
     </main>
     <footer>
