@@ -17,7 +17,7 @@
     <main>
       <section class="hero">
         <h1>Penny Retica</h1>
-        <p>Building insightful spatial analysis and interpretation of our cities and public spaces.</p>
+        <p>Building insightful spatial analysis and interpretation of the inner workings of our cities and public spaces.</p>
         <a href="#about" class="button">Learn More</a>
       </section>
       <section class="about">
