@@ -26,10 +26,8 @@
         <h2>About</h2>
   <div class="container">
     <img src="brooklyn bridge.jpg" alt="Brooklyn Bridge at night" style="max-width:auto" style="height:auto">
-    <div class="top-right"><h2>Born, raised, and based<br>in New York, NY. </h2>
-    </div>
     <div class="bottom-left">
-      <p> Studied Peace and Conflict Studies at Swarthmore College for three years; graduating with accelerated B.A. in Geography and Urban Studies from Temple University. <br> <br> Special interest in public spaces, community land tenure in cities across the U.S., and applications of GIS to fields of horticulture and urban agriculture.</p>
+      <h2>Born, raised, and based in New York, NY. </h2>
     </div>
   </div>
       <p> Born, raised, and based in New York, NY. <br> <br>
