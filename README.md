@@ -28,11 +28,12 @@
       </section>
       <section class="portfolio">
         <h2>Portfolio</h2>
-        <p> Skilled in ESRI Suite, ArcGIS Story Maps, JS, Python, R, JMP, MS Office, MapBox, and Leaflet. <br> <br> Strong background in research and project design. </p>
+        <p> Skilled in ESRI Suite, ArcGIS Story Maps, JS, Python, R, JMP, MS Office, MapBox, and Leaflet. <br> <br> Strong background in research and project design. <br> <br?>
+        What I'm working on: </p>
         <a href="https://pbretica.github.io/choropleth/" class="button2">Choropleth Map</a> <br> 
         <h3>Interactive choropleth map showing distribution of covid cases across all PA counties. </h3>
         <a href="https://pbretica.github.io/worldcoviddeaths/" class="button2">Proportional Symbol Map</a> <br>
-        <h4> Interactive map showing covid death counts around the world using proportional symbols. </h4>
+        <h4> Interactive map showing covid death counts around the world, conveys magnitude with proportional symbols. </h4>
         <a href="" class="button2">Site History Project</a> 
       </section>
       <section class="contact">
