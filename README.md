@@ -39,8 +39,9 @@
         <h3>Interactive proportional symbol map (embedded below). Global scale. <br> Conveys magnitude of covid death counts around the world through color-coded proportional symbols.</h3>
         <iframe src="https://pbretica.github.io/worldcoviddeaths/" height="500" width="600"></iframe> <br>
         <hr>
-        <a href="" class="button2">Site History Project</a> <b> Coming soon! </b>
-        <h3>Using ArcGIS Story Map platform to create a comprehensive site history guide for urban growers in Philadelphia using free online resources. Includes presentation on land tenure policy in Philadelphia and map tour of historic community growing spaces. <br> <br> Based on research with Penn State Extension Urban Soils Community Engagement Team. <br> Working with Map Collections of the Free Library on collaborative educational workshop open to the public. </h3>
+        <a href="" class="button2">Site History Project</a> <b> <strong> Coming soon! </strong> </b>
+        <h3>Creating a comprehensive site history guide for urban growers in Philadelphia using free online resources. Presented in ArcGIS Story Maps and downloadable pdf guides. <br>
+        Includes research on land tenure policy in Philadelphia and map tour of historic community growing spaces. <br> <br> Based on research with Penn State Extension Urban Soils Community Engagement Team. Working with Map Collections of the Free Library on collaborative educational workshop open to the public. </h3>
         <img src="urbansoils.png" alt="Title page of urban soils project" width="1000" height="350"> <br> 
         <hr>
       </section>
