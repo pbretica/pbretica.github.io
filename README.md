@@ -27,7 +27,7 @@
       </section>
       <section class="portfolio">
         <h2>Portfolio</h2>
-        <a href="https://pbretica.github.io/choropleth/" class="button2">Choropleth Map</a>
+        <a href="https://pbretica.github.io/choropleth/" class="button2">Choropleth Map</a> <br>
         <a href="#" class="button2">Proportional Symbol Map</a>
       </section>
       <section class="contact">
