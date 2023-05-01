@@ -40,7 +40,7 @@
         <hr>
         <a href="" class="button2">Site History Project</a> <b>     Coming soon! </b>
         <h3> Creating ArcGIS Story Map comprehensive site history guide for urban growers in Philadelphia using free online resources. <br> Includes presentation on land tenure policy in Philadelphia and map tour of historic community growing spaces. Based on research with Penn State Extension Urban Soils Community Engagement Team. <br> Working with Map Collections of the Free Library on collaborative educational workshop open to the public.<br> <br>
-        <img src="urbansoils.png" alt="Title page of urban soils project" width="1000" height="500"> 
+        <img src="urbansoils.png" alt="Title page of urban soils project" width="1000" height="400"> 
         </h3>
       </section>
       <section class="contact">
