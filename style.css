@@ -171,6 +171,14 @@
     margin-bottom: 40px;
     letter-spacing: 2px;
   }
+
+  .portfolio h5 {
+    font-size: 18px;
+    font-weight: lighter;
+    line-height: 1.5;
+    margin-bottom: 40px;
+    letter-spacing: 2px;
+  }
   
   .portfolio p {
     font-size: 22px;

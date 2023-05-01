@@ -32,11 +32,14 @@
         A quick look at what I'm working on: </p>
         <a href="https://pbretica.github.io/choropleth/" class="button2">Choropleth Map</a> <br> 
         <h3>Interactive choropleth map. PA scale. <br> Visualizes distribution of covid cases across all PA counties. </h3>
-        <iframe src="https://pbretica.github.io/choropleth/" height="500" width="500"></iframe> <br> <br>
+        <img src="covidcases.png" alt="Choropleth map of PA covid cases by county" width="500" height="500">
         <a href="https://pbretica.github.io/worldcoviddeaths/" class="button2">Proportional Symbol Map</a> <br>
-        <h4> Interactive proportional symbol map. Global scale. <br> Conveys magnitude of covid death counts around the world through color-coded proportional symbols. </h4>
-        <iframe src="https://pbretica.github.io/worldcoviddeaths/" height="500" width="700"></iframe> <br>
-        <a href="" class="button2">Site History Project</a> 
+        <h4> Interactive proportional symbol map embedded below. Global scale. <br> Conveys magnitude of covid death counts around the world through color-coded proportional symbols. </h4>
+        <iframe src="https://pbretica.github.io/worldcoviddeaths/" height="500" width="700"></iframe> <br> <br>
+        <a href="" class="button2">Site History Project</a> <br>
+        <h5> Coming soon! <br> 
+        Creating ArcGIS Story Map comprehensive site history guide for urban growers in Philadelphia using free online resources. Includes presentation on land tenure policy in Philadelphia and map tour of historic community growing spaces. Based on research with Penn State Extension Urban Soils Community Engagement Team. Working with Map Collections of the Free Library on collaborative educational workshop open to the public. </h5>
+        <img src="urbansoils.png" alt="Title page of urban soils project" width="500" height="500">
       </section>
       <section class="contact">
         <h2>Contact</h2>
