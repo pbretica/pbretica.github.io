@@ -19,13 +19,13 @@
         <h1>Penny Retica</h1>
         <p>Building insightful spatial analysis of the inner workings of our cities and public green spaces.</p>
         <a href="#about" class="button">Learn More</a> <br> <br>
-        <img src="Wild_tree_in_nature.jpg" alt="Picture of tree" width="900" height="800">
+        <img src="Wild_tree_in_nature.jpg" alt="Picture of tree" style="max-width:auto" style="height:auto">
         <img src="brooklyn bridge.jpg" alt="Brooklyn Bridge at night" style="max-width:auto" style="height:auto">
       </section>
       <section class="about">
         <h2>About</h2>
   <div class="container">
-    <img src="brooklyn bridge.jpg" alt="Brooklyn Bridge at night" style="width:100%;">
+    <img src="brooklyn bridge.jpg" alt="Brooklyn Bridge at night" style="max-width:auto" style="height:auto">
     <div class="bottom-left"> <p> Born, raised, and based in New York, NY. <br> <br>
         Studied Peace and Conflict Studies at Swarthmore College for three years; graduating with accelerated B.A. in Geography and Urban Studies from Temple University. <br> <br> Special interest in public spaces, community land tenure in cities across the U.S., and applications of GIS to fields of horticulture and urban agriculture.</p></div>
         </div>
