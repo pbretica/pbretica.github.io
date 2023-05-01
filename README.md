@@ -19,6 +19,7 @@
         <h1>Penny Retica</h1>
         <p>Building insightful spatial analysis of the inner workings of our cities and public spaces.</p>
         <a href="#about" class="button">Learn More</a>
+        <img src="Wild_tree_in_nature.jpg" alt="Picture of tree" width="700" height="800">
       </section>
       <section class="about">
         <h2>About</h2>
