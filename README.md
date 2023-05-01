@@ -18,7 +18,7 @@
       <section class="hero">
         <h1>Penny Retica</h1>
         <p>Building insightful spatial analysis of the inner workings of our cities and public green spaces.</p>
-        <a href="#about" class="button">Learn More</a> <br> <br>
+        <a href="#about" class="button">Learn More</a> <br> <br> <br>
   <div class="container">
     <img src="brooklyn bridge.jpg" alt="Brooklyn Bridge at night" style="max-width:auto" style="height:auto">
     <div class="bottom-left">
