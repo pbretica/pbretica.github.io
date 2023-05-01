@@ -19,6 +19,14 @@
         <h1>Penny Retica</h1>
         <p>Building insightful spatial analysis of the inner workings of our cities and public green spaces.</p>
         <a href="#about" class="button">Learn More</a> <br> <br>
+  <div class="row">
+    <div class="column">
+    <img src="Wild_tree_in_nature.jpg" alt= "Picture of tree" style="width:100%">
+    </div>
+    <div class="column">
+    <img src="brooklyn bridge.jpg" alt="Brooklyn Bridge at night" style="width:100%">
+    </div>
+  </div>
         <img src="Wild_tree_in_nature.jpg" alt="Picture of tree" style="max-width:auto" style="height:auto">
         <img src="brooklyn bridge.jpg" alt="Brooklyn Bridge at night" style="max-width:auto" style="height:auto">
       </section>
