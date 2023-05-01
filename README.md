@@ -17,7 +17,7 @@
     <main>
       <section class="hero">
         <h1>Penny Retica</h1>
-        <p>Building insightful spatial analysis and interpretation of the inner workings of our cities and public spaces.</p>
+        <p>Building insightful spatial analysis of the inner workings of our cities and public spaces.</p>
         <a href="#about" class="button">Learn More</a>
       </section>
       <section class="about">
@@ -32,12 +32,12 @@
         A quick look at what I'm working on: </p>
         <hr>
         <a href="https://pbretica.github.io/choropleth/" class="button2">Launch Choropleth Map</a>
-        <h3> Interactive choropleth map. <i>PA scale.</i> <br> <br>Visualizes distribution of covid cases across all PA counties.</h3>
+        <h3> Interactive choropleth map. <i>PA scale.</i> <br> Visualizes distribution of covid cases across all PA counties.</h3>
         <img src="covidcases.png" alt="Choropleth map of PA covid cases by county" width="600" height="400">
         <h4> Screen capture of choropleth map.</h4>
         <hr>
         <a href="https://pbretica.github.io/worldcoviddeaths/" class="button2">Launch Proportional Symbol Map</a>
-        <h3>Interactive proportional symbol map (embedded below). <i>Global scale.</i> <br> <br> Conveys magnitude of covid death counts around the world through color-coded proportional symbols.</h3>
+        <h3>Interactive proportional symbol map (embedded below). <i>Global scale.</i> <br> Conveys magnitude of covid death counts around the world through color-coded proportional symbols.</h3>
         <iframe src="https://pbretica.github.io/worldcoviddeaths/" height="500" width="600"></iframe>
         <h4> Embedded proportional symbol map. </h4>
         <hr>
