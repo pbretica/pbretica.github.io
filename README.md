@@ -32,7 +32,7 @@
         A quick look at what I'm working on: </p>
         <a href="https://pbretica.github.io/choropleth/" class="button2">Choropleth Map</a> <br> 
         <h3>Interactive choropleth map. PA scale. <br> Visualizes distribution of covid cases across all PA counties. </h3>
-        <iframe src="https://pbretica.github.io/choropleth/" height="500" width="1000"></iframe> <br>
+        <iframe src="https://pbretica.github.io/choropleth/" height="500" width="700"></iframe> <br> <br>
         <a href="https://pbretica.github.io/worldcoviddeaths/" class="button2">Proportional Symbol Map</a> <br>
         <h4> Interactive proportional symbol map. Global scale. <br> Conveys magnitude of covid death counts around the world through color-coded proportional symbols. </h4>
         <iframe src="https://pbretica.github.io/worldcoviddeaths/" height="500" width="1000"></iframe> <br>
