@@ -31,9 +31,9 @@
         <p> Skilled in ESRI Suite, ArcGIS Story Maps, JS, Python, R, JMP, MS Office, MapBox, Leaflet, and more. <br> <br> Strong background in research and project design. <br> <br>
         What I'm working on: </p>
         <a href="https://pbretica.github.io/choropleth/" class="button2">Choropleth Map</a> <br> 
-        <h3>Interactive choropleth map. <br> Visualizes distribution of covid cases across all PA counties. </h3>
+        <h3>Interactive choropleth map. PA scale. <br> Visualizes distribution of covid cases across all PA counties. </h3>
         <a href="https://pbretica.github.io/worldcoviddeaths/" class="button2">Proportional Symbol Map</a> <br>
-        <h4> Interactive map. <br> Conveys magnitude of covid death counts around the world through color-coded proportional symbols. </h4>
+        <h4> Interactive proportional symbol map. Global scale. <br> Conveys magnitude of covid death counts around the world through color-coded proportional symbols. </h4>
         <a href="" class="button2">Site History Project</a> 
       </section>
       <section class="contact">
