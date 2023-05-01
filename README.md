@@ -23,10 +23,10 @@
         <img src="brooklyn bridge.jpg" alt="Brooklyn Bridge at night" style="max-width:auto" style="height:auto">
       </section>
       <section class="about">
-        <h2>About</h2>
   <div class="container">
     <img src="brooklyn bridge.jpg" alt="Brooklyn Bridge at night" style="max-width:auto" style="height:auto">
     <div class="bottom-left">
+      <h2>About</h2>
       <h2>Born, raised, and based in New York, NY. </h2>
     </div>
   </div>
