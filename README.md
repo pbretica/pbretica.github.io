@@ -28,7 +28,7 @@
       </section>
       <section class="portfolio">
         <h2>Portfolio</h2>
-        <p> Skilled in ESRI suite, ArcGIS Story Maps, JS, Python, R, JMP, MS Office, MapBox, Leaflet. <br> <br> Strong background in research and project design.</p>
+        <p> Skilled in ESRI Suite, ArcGIS Story Maps, JS, Python, R, JMP, MS Office, MapBox, and Leaflet. <br> <br> Strong background in research and project design.</p>
         <a href="https://pbretica.github.io/choropleth/" class="button2">Choropleth Map</a> <br> <br>
         <a href="https://pbretica.github.io/worldcoviddeaths/" class="button2">Proportional Symbol Map</a>
       </section>
