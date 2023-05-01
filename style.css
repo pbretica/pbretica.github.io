@@ -103,16 +103,23 @@
   }
 
   .button2 {
+    display: inline-block;
+    background-color: #0ff;
     padding: 10px 20px;
     text-align: center;
     font-size: 22px;
     font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 5px;
     letter-spacing: 2px;
+    transition: all 0.3s ease;
   }
 
   .button2:hover {
-    background-color: #0ff;
+    background-color: #f0f;
     color: #000;
+    transform: scale(1.1);
+    box-shadow: 0 0 10px #fff;
   }
   
   .about {

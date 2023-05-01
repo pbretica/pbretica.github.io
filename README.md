@@ -32,7 +32,7 @@
         <a href="https://pbretica.github.io/choropleth/" class="button2">Choropleth Map</a> <br> 
         <h3>Interactive choropleth map showing distribution of covid cases across all counties in PA. </h3>
         <a href="https://pbretica.github.io/worldcoviddeaths/" class="button2">Proportional Symbol Map</a> <br>
-        <h4> Interactive map showing covid death counts around the world using proportional symbols. </h4> <br>
+        <h4> Interactive map showing covid death counts around the world using proportional symbols. </h4>
         <a href="" class="button2">Site History Project</a> 
       </section>
       <section class="contact">
