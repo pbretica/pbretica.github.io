@@ -23,7 +23,7 @@
       <section class="about me">
         <h2>About Me</h2>
         <p>We are a team of highly trained spies with years of experience in the field. Our mission is to provide our clients with the information they need to make informed decisions and stay ahead of their competition. </p>
-        <a href="#" class="button2">CV</a>
+        <a href="https://pbretica.github.io/folder/Retica_2023CV.pdf" class="button2">CV</a>
       </section>
       <section class="portfolio">
         <h2>Portfolio</h2>
