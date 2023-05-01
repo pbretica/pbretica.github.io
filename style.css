@@ -137,10 +137,10 @@
   }
   
   .about p {
-    font-size: 24px;
+    font-size: 22px;
     line-height: 1.5;
     margin-bottom: 40px;
-    letter-spacing: 1.5px;
+    letter-spacing: 2px;
   }
   
   .portfolio {
@@ -173,10 +173,10 @@
   }
   
   .portfolio p {
-    font-size: 24px;
+    font-size: 22px;
     line-height: 1.5;
     margin-bottom: 40px;
-    letter-spacing: 1.5px;
+    letter-spacing: 2px;
   }
   
   .contact {
