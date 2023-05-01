@@ -32,17 +32,17 @@
         A quick look at what I'm working on: </p>
         <hr>
         <a href="https://pbretica.github.io/choropleth/" class="button2">Launch Choropleth Map</a>
-        <h3> Interactive choropleth map. PA scale. <br> Visualizes distribution of covid cases across all PA counties.</h3>
+        <h3> Interactive choropleth map. <i>PA scale.</i> <br> Visualizes distribution of covid cases across all PA counties.</h3>
         <img src="covidcases.png" alt="Choropleth map of PA covid cases by county" width="600" height="400">
         <h4> Screen capture of choropleth map.</h4>
         <hr>
         <a href="https://pbretica.github.io/worldcoviddeaths/" class="button2">Launch Proportional Symbol Map</a>
-        <h3>Interactive proportional symbol map (embedded below). Global scale. <br> Conveys magnitude of covid death counts around the world through color-coded proportional symbols.</h3>
+        <h3>Interactive proportional symbol map (embedded below). <i>Global scale.</i> <br> Conveys magnitude of covid death counts around the world through color-coded proportional symbols.</h3>
         <iframe src="https://pbretica.github.io/worldcoviddeaths/" height="500" width="600"></iframe>
         <h4> Embedded proportional symbol map. </h4>
         <hr>
         <a href="" class="button2">Launch Site History Project</a> <b> <strong> Coming soon! </strong> </b>
-        <h3>Creating a comprehensive site history guide for urban growers in Philadelphia using free online resources. <br> <br>
+        <h3>Creating a comprehensive site history guide for urban growers in Philadelphia using free online resources. <i>Phila scale.</i><br> <br>
         Presented in ArcGIS Story Maps and downloadable pdf guides.
         Includes research on land tenure policy in Philadelphia and map tour of historic community growing spaces. <br> <br> Based on research with Penn State Extension Urban Soils Community Engagement Team. Working with Map Collections of the Free Library on collaborative educational workshop open to the public. </h3>
         <img src="urbansoils.png" alt="Title page of urban soils project" width="1000" height="350">
