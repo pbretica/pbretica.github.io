@@ -34,7 +34,7 @@
         <h3> Interactive choropleth map. PA scale. <br> Visualizes distribution of covid cases across all PA counties. <br> <br>
         <img src="covidcases.png" alt="Choropleth map of PA covid cases by county" width="600" height="400">
         <hr>
-        <br> <a href="https://pbretica.github.io/worldcoviddeaths/" class="button2">Proportional Symbol Map</a>
+        <a href="https://pbretica.github.io/worldcoviddeaths/" class="button2">Proportional Symbol Map</a>
         <h3> Interactive proportional symbol map (embedded below). Global scale. <br> Conveys magnitude of covid death counts around the world through color-coded proportional symbols. <br> <br>
         <iframe src="https://pbretica.github.io/worldcoviddeaths/" height="500" width="600"></iframe> <br> <br>
         <hr>
